@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\bin\Release\WoBookTest.exe
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\bin\Release\WoBookTest.pdb
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\bin\Release\CookComputing.XmlRpcV2.dll
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\obj\Release\WoBookTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\obj\Release\WoBookTest.Form1.resources
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\obj\Release\WoBookTest.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\obj\Release\WoBookTest.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\obj\Release\WoBookTest.exe
+C:\Users\Admin\Documents\GitHub\XML-RPC.NET\WoBookTest\obj\Release\WoBookTest.pdb
